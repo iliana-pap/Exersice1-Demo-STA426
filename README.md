@@ -1,5 +1,9 @@
 # Exersice1-Demo-STA426
 ## Cancer
+
+![Tumor_Mesothelioma2](https://en.wikipedia.org/wiki/Cancer#/media/File:Tumor_Mesothelioma2_legend.jpg)
+
+
 ## Definitions
 
 Cancers are a large family of diseases that involve abnormal [cell growth](https://en.wikipedia.org/wiki/Cell_growth) with the potential to invade or spread to other parts of the body. They form a subset of [neoplasms](https://en.wikipedia.org/wiki/Neoplasm). A neoplasm or tumor is a group of cells that have undergone unregulated growth and will often form a mass or lump, but may be distributed diffusely.
@@ -31,6 +35,8 @@ Common environmental factors that contribute to cancer death include tobacco (**
 8. Autoimmune diseases
 
 ## Carcinogenesis
+
+![Cancers and tumors are caused by a series of mutations. Each mutation alters the behavior of the cell somewhat.](https://en.wikipedia.org/wiki/Carcinogenesis#/media/File:Cancer_requires_multiple_mutations_from_NIHen.png)
 
 ## Metastasis
 
