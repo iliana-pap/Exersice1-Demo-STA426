@@ -1,7 +1,7 @@
 # Exersice1-Demo-STA426
 ## Cancer
 
-![Tumor_Mesothelioma2](https://en.wikipedia.org/wiki/Cancer#/media/File:Tumor_Mesothelioma2_legend.jpg)
+![](images/Tumor_Mesothelioma2_legend.jpg)
 
 
 ## Definitions
@@ -36,7 +36,8 @@ Common environmental factors that contribute to cancer death include tobacco (**
 
 ## Carcinogenesis
 
-![Cancers and tumors are caused by a series of mutations. Each mutation alters the behavior of the cell somewhat.](https://en.wikipedia.org/wiki/Carcinogenesis#/media/File:Cancer_requires_multiple_mutations_from_NIHen.png)
+![](images/Cancer_requires_multiple_mutations_from_NIHen.png)
+
 
 ## Metastasis
 
