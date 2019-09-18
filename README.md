@@ -10,12 +10,12 @@ Cancers are a large family of diseases that involve abnormal [cell growth](https
 
 All tumor cells show the [six hallmarks of cancer](https://en.wikipedia.org/wiki/The_Hallmarks_of_Cancer). These characteristics are required to produce a malignant tumor. They include:
 
-* Cell growth and division absent the proper signals
+* [Cell growth and division](https://en.wikipedia.org/wiki/Cell_growth) absent the proper signals
 * Continuous growth and division even given contrary signals
-* Avoidance of programmed cell death
-* Limitless number of cell divisions
-* Promoting blood vessel construction
-* Invasion of tissue and formation of metastases
+* Avoidance of [programmed cell death][cell death]
+* [Limitless number of cell divisions](https://en.wikipedia.org/wiki/Biological_immortality)
+* [Promoting blood vessel construction][Angiogenesis]
+* [Invasion][invasion] of tissue and formation of metastases
 
 The progression from normal cells to cells that can form a detectable mass to outright cancer involves multiple steps known as malignant progression.
 
@@ -38,15 +38,20 @@ Common environmental factors that contribute to cancer death include tobacco (**
 
 ![](images/Cancer_requires_multiple_mutations_from_NIHen.png)
 
-Carcinogenesis, also called **oncogenesis** or **tumorigenesis**, is the formation of a cancer, whereby normal [cells](https://en.wikipedia.org/wiki/Cell_(biology)) are [transformed](https://en.wikipedia.org/wiki/Malignant_transformation) into cancer cells. The process is characterized by changes at the cellular, genetic, and [epigenetic][epigenetics] levels and abnormal [cell division](https://en.wikipedia.org/wiki/Cell_division). Cell division is a physiological process that occurs in almost all [tissues](https://en.wikipedia.org/wiki/Tissue_(biology)) and under a variety of circumstances. Normally the balance between proliferation and programmed cell death, in the form of [apoptosis](https://en.wikipedia.org/wiki/Apoptosis), is maintained to ensure the integrity of tissues and [organs](https://en.wikipedia.org/wiki/Organ_(anatomy)). According to the prevailing accepted theory of carcinogenesis, the somatic mutation theory, [mutations](https://en.wikipedia.org/wiki/Mutation) in DNA and [epimutations][epigenetics] that lead to cancer disrupt these orderly processes by disrupting the programming regulating the processes, upsetting the normal balance between proliferation and cell death. This results in uncontrolled cell division and the [evolution of those cells](https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer) by [natural selection](https://en.wikipedia.org/wiki/Natural_selection) in the body. Only certain mutations lead to cancer whereas the majority of mutations do not.
+Carcinogenesis, also called **oncogenesis** or **tumorigenesis**, is the formation of a cancer, whereby normal [cells](https://en.wikipedia.org/wiki/Cell_(biology)) are [transformed](https://en.wikipedia.org/wiki/Malignant_transformation) into cancer cells. The process is characterized by changes at the cellular, genetic, and [epigenetic][epigenetics] levels and abnormal [cell division](https://en.wikipedia.org/wiki/Cell_division). Cell division is a physiological process that occurs in almost all [tissues](https://en.wikipedia.org/wiki/Tissue_(biology)) and under a variety of circumstances. Normally the balance between proliferation and programmed cell death, in the form of [apoptosis][cell death], is maintained to ensure the integrity of tissues and [organs](https://en.wikipedia.org/wiki/Organ_(anatomy)). According to the prevailing accepted theory of carcinogenesis, the somatic mutation theory, [mutations](https://en.wikipedia.org/wiki/Mutation) in DNA and [epimutations][epigenetics] that lead to cancer disrupt these orderly processes by disrupting the programming regulating the processes, upsetting the normal balance between proliferation and cell death. This results in uncontrolled cell division and the [evolution of those cells](https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer) by [natural selection](https://en.wikipedia.org/wiki/Natural_selection) in the body. Only certain mutations lead to cancer whereas the majority of mutations do not.
 
 [epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
+[cell death]: https://en.wikipedia.org/wiki/Apoptosis
 
 ## Metastasis
 
 [Metastasis](https://en.wikipedia.org/wiki/Metastasis) is the spread of cancer to other locations in the body. The dispersed tumors are called metastatic tumors, while the original is called the primary tumor. Almost all cancers can metastasize. Most cancer deaths are due to cancer that has metastasized.
 
-Metastasis is common in the late stages of cancer and it can occur via the blood or the [lymphatic system](https://en.wikipedia.org/wiki/Lymphatic_system) or both. The typical steps in metastasis are local [invasion](https://en.wikipedia.org/wiki/Invasion_(cancer)), [intravasation](https://en.wikipedia.org/wiki/Invasion_(cancer)) to the blood or lymph, circulation through the body, [extravasation](https://en.wikipedia.org/wiki/Extravasation) into the new tissue, proliferation and [angiogenesis](https://en.wikipedia.org/wiki/Angiogenesis). Different types of cancers tend to metastasize to particular organs, but overall the most common places for metastases to occur are the lungs, liver, brain and the bones.
+Metastasis is common in the late stages of cancer and it can occur via the blood or the [lymphatic system](https://en.wikipedia.org/wiki/Lymphatic_system) or both. The typical steps in metastasis are local [invasion][invasion], [intravasation](https://en.wikipedia.org/wiki/Invasion_(cancer)) to the blood or lymph, circulation through the body, [extravasation](https://en.wikipedia.org/wiki/Extravasation) into the new tissue, proliferation and [angiogenesis][Angiogenesis]. Different types of cancers tend to metastasize to particular organs, but overall the most common places for metastases to occur are the lungs, liver, brain and the bones.
+
+[Angiogenesis]:https://en.wikipedia.org/wiki/Angiogenesis
+[invasion]: https://en.wikipedia.org/wiki/Invasion_(cancer)
+
 
 ## Diagnosis
 
