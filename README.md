@@ -56,6 +56,14 @@ Most cancers are initially recognized either because of the appearance of signs 
 
 ## Classification
 
+Cancers are classified by the type of cell that the tumor cells resemble and is therefore presumed to be the origin of the tumor. These types include:
+
+* [Carcinoma](https://en.wikipedia.org/wiki/Carcinoma)
+* [Sarcoma](https://en.wikipedia.org/wiki/Sarcoma)
+* [Lymphoma](https://en.wikipedia.org/wiki/Lymphoma) and [leukemia](https://en.wikipedia.org/wiki/Leukemia)
+* [Germ cell tumor](https://en.wikipedia.org/wiki/Germ_cell_tumor)
+* [Blastoma](https://en.wikipedia.org/wiki/Blastoma)
+
 ## Prevention
 
 Cancer prevention is defined as active measures to decrease cancer risk. The vast majority of cancer cases are due to environmental risk factors. Many of these environmental factors are controllable lifestyle choices. Thus, cancer is generally preventable. Between **_70%_** and **_90%_** of common cancers are due to environmental factors and therefore potentially preventable.
@@ -64,11 +72,7 @@ Cancer prevention is defined as active measures to decrease cancer risk. The vas
 2. Medication
 3. Vaccination  
 
-< “Cancer can touch you, but not your soul; neither your thoughts, nor your heart.” 
-
-< "There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow." 
-
-< "Faith is the strength by which a shattered world shall emerge into the light."
+>“Cancer can touch you, but not your soul; neither your thoughts, nor your heart. Faith is the strength by which a shattered world shall emerge into the light."
 
 
 Sources : 
