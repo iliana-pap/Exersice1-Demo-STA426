@@ -59,6 +59,11 @@ Most cancers are initially recognized either because of the appearance of signs 
 Cancers are classified by the type of cell that the tumor cells resemble and is therefore presumed to be the origin of the tumor. These types include:
 
 * [Carcinoma](https://en.wikipedia.org/wiki/Carcinoma)
+
+![](images/Breast_cancer_gross_appearance.jpg)
+
+![](images/Colon_cancer_2.jpg)
+
 * [Sarcoma](https://en.wikipedia.org/wiki/Sarcoma)
 * [Lymphoma](https://en.wikipedia.org/wiki/Lymphoma) and [leukemia](https://en.wikipedia.org/wiki/Leukemia)
 * [Germ cell tumor](https://en.wikipedia.org/wiki/Germ_cell_tumor)
