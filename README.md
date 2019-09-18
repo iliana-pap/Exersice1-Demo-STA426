@@ -38,10 +38,21 @@ Common environmental factors that contribute to cancer death include tobacco (**
 
 ![](images/Cancer_requires_multiple_mutations_from_NIHen.png)
 
+Carcinogenesis, also called **oncogenesis** or **tumorigenesis**, is the formation of a cancer, whereby normal [cells](https://en.wikipedia.org/wiki/Cell_(biology)) are [transformed](https://en.wikipedia.org/wiki/Malignant_transformation) into cancer cells. The process is characterized by changes at the cellular, genetic, and [epigenetic][epigenetics] levels and abnormal [cell division](https://en.wikipedia.org/wiki/Cell_division). Cell division is a physiological process that occurs in almost all [tissues](https://en.wikipedia.org/wiki/Tissue_(biology)) and under a variety of circumstances. Normally the balance between proliferation and programmed cell death, in the form of [apoptosis](https://en.wikipedia.org/wiki/Apoptosis), is maintained to ensure the integrity of tissues and [organs](https://en.wikipedia.org/wiki/Organ_(anatomy)). According to the prevailing accepted theory of carcinogenesis, the somatic mutation theory, [mutations](https://en.wikipedia.org/wiki/Mutation) in DNA and [epimutations][epigenetics] that lead to cancer disrupt these orderly processes by disrupting the programming regulating the processes, upsetting the normal balance between proliferation and cell death. This results in uncontrolled cell division and the [evolution of those cells](https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer) by [natural selection](https://en.wikipedia.org/wiki/Natural_selection) in the body. Only certain mutations lead to cancer whereas the majority of mutations do not.
+
+[epigenetics]: https://en.wikipedia.org/wiki/Epigenetics
 
 ## Metastasis
 
+[Metastasis](https://en.wikipedia.org/wiki/Metastasis) is the spread of cancer to other locations in the body. The dispersed tumors are called metastatic tumors, while the original is called the primary tumor. Almost all cancers can metastasize. Most cancer deaths are due to cancer that has metastasized.
+
+Metastasis is common in the late stages of cancer and it can occur via the blood or the [lymphatic system](https://en.wikipedia.org/wiki/Lymphatic_system) or both. The typical steps in metastasis are local [invasion](https://en.wikipedia.org/wiki/Invasion_(cancer)), [intravasation](https://en.wikipedia.org/wiki/Invasion_(cancer)) to the blood or lymph, circulation through the body, [extravasation](https://en.wikipedia.org/wiki/Extravasation) into the new tissue, proliferation and [angiogenesis](https://en.wikipedia.org/wiki/Angiogenesis). Different types of cancers tend to metastasize to particular organs, but overall the most common places for metastases to occur are the lungs, liver, brain and the bones.
+
 ## Diagnosis
+
+Most cancers are initially recognized either because of the appearance of signs or symptoms or through [screening](https://en.wikipedia.org/wiki/Cancer_screening).  People with suspected cancer are investigated with [medical tests](https://en.wikipedia.org/wiki/Medical_test). These commonly include [blood tests](https://en.wikipedia.org/wiki/Blood_test), [X-rays](https://en.wikipedia.org/wiki/Projectional_radiography), (contrast) [CT scans](https://en.wikipedia.org/wiki/CT_scan) and [endoscopy](https://en.wikipedia.org/wiki/Endoscopy).
+
+[Cytogenetics](https://en.wikipedia.org/wiki/Cytogenetics) and [immunohistochemistry](https://en.wikipedia.org/wiki/Immunohistochemistry) are other types of tissue tests. 
 
 ## Classification
 
@@ -50,13 +61,19 @@ Common environmental factors that contribute to cancer death include tobacco (**
 Cancer prevention is defined as active measures to decrease cancer risk. The vast majority of cancer cases are due to environmental risk factors. Many of these environmental factors are controllable lifestyle choices. Thus, cancer is generally preventable. Between **_70%_** and **_90%_** of common cancers are due to environmental factors and therefore potentially preventable.
 
 1. Dietary  
-Dietary recommendations for cancer prevention typically include an emphasis on [vegetables](https://en.wikipedia.org/wiki/Vegetable), [fruit](https://en.wikipedia.org/wiki/Fruit), [whole grains](https://en.wikipedia.org/wiki/Whole_grain) and [fish](https://en.wikipedia.org/wiki/Fish) and an avoidance of processed and red meat (beef, pork, lamb), animal fats, pickled foods and [refined carbohydrates](https://en.wikipedia.org/wiki/Carbohydrate#Nutrition).
 2. Medication
 3. Vaccination  
-Vaccines have been developed that prevent infection by some carcinogenic viruses. Human papillomavirus vaccine (Gardasil and Cervarix) decrease the risk of developing cervical cancer.The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer. The administration of human papillomavirus and hepatitis B vaccinations is recommended when resources allow.
+
+< “Cancer can touch you, but not your soul; neither your thoughts, nor your heart.” 
+
+< "There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow." 
+
+< "Faith is the strength by which a shattered world shall emerge into the light."
+
 
 Sources : 
 
 https://en.wikipedia.org/wiki/Cancer
 
 https://en.wikipedia.org/wiki/Carcinogenesis
+
